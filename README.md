@@ -1,5 +1,5 @@
 # ChallengeConversorMoneda
-```markdown
+```
 # 🌍 Conversor de Monedas
 
 Este proyecto es una aplicación interactiva desarrollada en Java para realizar conversiones de monedas en tiempo real, utilizando la API de ExchangeRate-API.
