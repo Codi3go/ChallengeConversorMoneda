@@ -1,10 +1,11 @@
 # ChallengeConversorMoneda
+![Conversor de Monedas](https://github.com/Codi3go/ChallengeConversorMoneda/blob/8051c7bd271fe59ce76c7f33aeb6737fc08d89ad/assets/Bienvenida.png)
 ```markdown
 # 🌍 Conversor de Monedas
 
 Este proyecto es una aplicación interactiva desarrollada en Java para realizar conversiones de monedas en tiempo real, utilizando la API de ExchangeRate-API.
 
-![Conversor de Monedas](https://github.com/Codi3go/ChallengeConversorMoneda/blob/8051c7bd271fe59ce76c7f33aeb6737fc08d89ad/assets/Bienvenida.png)
+
 
 ## 🚀 Características
 - Conversión entre las siguientes monedas:
