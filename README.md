@@ -4,7 +4,7 @@
 
 Este proyecto es una aplicación interactiva desarrollada en Java para realizar conversiones de monedas en tiempo real, utilizando la API de ExchangeRate-API.
 
-![Conversor de Monedas](https://github.com/Codi3go/ChallengeConversorMoneda/blob/main/assets/Bienvenida.png?raw=true)
+![Conversor de Monedas](https://github.com/Codi3go/ChallengeConversorMoneda/blob/main/assets/Bienvenida.png)
 
 ## 🚀 Características
 - Conversión entre las siguientes monedas:
