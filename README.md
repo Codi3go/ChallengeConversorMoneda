@@ -1,15 +1,15 @@
-# ChallengeConversorMoneda
+# 🌍 ChallengeConversorMoneda
 
-```markdown
-# 🌍 Conversor de Monedas
-```
+---
+
 ![Conversor de Monedas](https://github.com/Codi3go/ChallengeConversorMoneda/blob/8051c7bd271fe59ce76c7f33aeb6737fc08d89ad/assets/Bienvenida.png)
-```
+
 Este proyecto es una aplicación interactiva desarrollada en Java para realizar conversiones de monedas en tiempo real, utilizando la API de ExchangeRate-API.
 
 
 
 ## 🚀 Características
+
 - Conversión entre las siguientes monedas:
   - **Dólar (USD)** y **Peso Argentino (ARS)**.
   - **Dólar (USD)** y **Real Brasileño (BRL)**.
@@ -24,13 +24,14 @@ Este proyecto es una aplicación interactiva desarrollada en Java para realizar 
 
 ## ⚙️ Instalación
 1. **Clona o descarga este repositorio:**
-   ```bash
-   git clone https://github.com/usuario/ConversorDeMonedas.git
-   ```
+   bash
+   git clone https://github.com/Codi3go/ChallengeConversorMoneda.git
+   
 2. **Importa el proyecto** en tu IDE preferido (IntelliJ IDEA, Eclipse, etc.).
 3. **Configura las dependencias:**
+   ```markdown
    - Si usas Maven, asegúrate de incluir la biblioteca `Gson` en el archivo `pom.xml`:
-     ```xml
+     xml
      <dependency>
          <groupId>com.google.code.gson</groupId>
          <artifactId>gson</artifactId>
@@ -38,7 +39,7 @@ Este proyecto es una aplicación interactiva desarrollada en Java para realizar 
      </dependency>
      ```
    - Si no usas Maven, descarga `Gson` desde [Maven Repository](https://mvnrepository.com/artifact/com.google.code.gson/gson) e inclúyelo manualmente en tu proyecto.
-4. Ejecuta la clase `AplicacionConversorMoneda` para iniciar la aplicación.
+5. Ejecuta la clase `AplicacionConversorMoneda` para iniciar la aplicación.
 
 ## 🛠️ Estructura del Proyecto
 - **`AplicacionConversorMoneda`** 🏦  
@@ -61,4 +62,4 @@ Las contribuciones son bienvenidas. Si deseas mejorar el proyecto o reportar alg
 
 ## 📜 Licencia
 Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
-```  
+
